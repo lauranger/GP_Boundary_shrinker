@@ -1,0 +1,11 @@
+2007-05-19  Laurent G     <lauranger@gna.org> 
+	* Added an option to select changed pixels in order
+	to ease restauration of meaningful details such as fjords.
+
+2007-05-08  Laurent G     <lauranger@gna.org> 
+	* Corrected color -> idx at last_vals & co
+	* Added a protected color at grow phase (for rivers)
+
+2007-05-08  Laurent G     <lauranger@gna.org> 
+
+	* Initial release

@@ -1,0 +1,8 @@
+Added the possibility to select the changed pixels for getting back some details
+that thinnning step may have gotten away. Met an old (found in 2000) bugs
+of the Gimp in the process.
+Added something to complete the frontiers and another to avoid killing rivers
+with frontiers.
+Base features : given an indexed image and a color (frontier color) in it
+will make these color frontiers be one pixel thick, either in 4 connectivity
+or in 8 connectivity.

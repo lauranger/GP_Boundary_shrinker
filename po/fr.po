@@ -1,0 +1,44 @@
+# This is the french translation file for the GIMP plug-in Boundary shrinker.
+# Copyright (C) 2007
+# This file is distributed under the same license as the gp-boundary-shrk package.
+# Laurent G. <lauranger@free.fr>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gp-boundary-shrk 1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-05-12 10:50+0200\n"
+"PO-Revision-Date: 2007-05-12 10:52+0200\n"
+"Last-Translator: Laurent G. <lauranger@free.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-15\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/interface.c:56 ../src/main.c:119
+msgid "Boundary shrinker"
+msgstr "Nettoyeur de frontières"
+
+#: ../src/interface.c:73
+msgid "Frontier color"
+msgstr "Couleur de frontière"
+
+#: ../src/interface.c:89
+msgid "Shrink only"
+msgstr "Amincissement seulement"
+
+#: ../src/interface.c:90
+msgid "Grow only non conflict"
+msgstr "Renforcement prudent"
+
+#: ../src/interface.c:91
+msgid "Grow in two passes"
+msgstr "Renforcement en deux passes"
+
+#: ../src/interface.c:104 ../src/interface.c:108
+msgid "Rivers color"
+msgstr "Couleur des rivières"
+
+#: ../src/interface.c:129
+msgid "_Select changes"
+msgstr "Sélectionne les changements"
